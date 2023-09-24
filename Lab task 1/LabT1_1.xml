@@ -1,0 +1,26 @@
+<products>
+    <brands sr ="1">
+        <id>11</id>
+        <bName>Samsung</bName>
+        <price>35000</price>
+        <stock>50</stock>
+        <status>1</status>
+    </brands>
+
+    <brands sr ="2">
+        <id>20</id>
+        <bName>HTC</bName>
+        <price>65300</price>
+        <stock>35</stock>
+        <status>0</status>
+    </brands>
+
+    <brands sr ="3">
+        <id>23</id>
+        <bName>Nokia</bName>
+        <price>25100</price>
+        <stock>100</stock>
+        <status>1</status>
+    </brands>
+
+</products>

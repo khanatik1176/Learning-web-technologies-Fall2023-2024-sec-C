@@ -18,7 +18,7 @@
         <id>2</id>
         <Name>Mark Zuckerberg</Name>
         <address>
-            <Flat>Flat# A/1</Flat>
+            <Flat></Flat>
             <House>Flat# A/1</House>
             <Road>R#18</Road>
             <Area>Mirpur</Area>
@@ -33,7 +33,7 @@
         <id>3</id>
         <Name>Ala Voski</Name>
         <address>
-            <Flat>Flat# A/1</Flat>
+            <Flat></Flat>
             <House>H#38</House>
             <Road>R#3</Road>
             <Area>Motijheel</Area>
